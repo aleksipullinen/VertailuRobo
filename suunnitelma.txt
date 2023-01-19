@@ -1,0 +1,5 @@
+1. Käyttäjä syöttää kaupat ja tuotteet
+2. Robot Framework hakee hinnat ja tallentaa ne csv tiedostoon.
+3. Python funktio tarkistaa onko hinnat tarpeeksi alhaisia
+    3.1 Jos hinta tarpeeksi alhainen, palauttaa kaupan nimen
+4. Robot Framework menee linkin kautta kauppaan ja siirtää halutun tuotteen ostoskoriin
